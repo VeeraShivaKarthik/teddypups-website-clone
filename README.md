@@ -52,7 +52,6 @@ AI assistance was used to scaffold and refine the implementation. Example prompt
 3. "Add functional navigation, puppy breed filters, accordion FAQ and WhatsApp enquiry links."
 4. "Document local setup, production build and Vercel deployment."
 
-The developer should be able to explain, review and maintain all generated code.
 
 ## Verification and known limitations
 - Vercel production deployment reached the `READY` state and the production build completed successfully.
